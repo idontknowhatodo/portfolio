@@ -55,7 +55,7 @@
     font-family: 'Gothic A1';
     font-size: 15px;
     margin: 50px 0;
-    animation: fadein 6s ease-in-out;
+    animation: fadein 4s ease-in-out;
 }
 .main img{
     position: absolute;
