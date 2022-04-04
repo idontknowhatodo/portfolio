@@ -1,16 +1,16 @@
 {
   "main.css": "./static/css/main.0b178c1e.chunk.css",
-  "main.js": "./static/js/main.a0c71db8.chunk.js",
-  "main.js.map": "./static/js/main.a0c71db8.chunk.js.map",
+  "main.js": "./static/js/main.b05aef51.chunk.js",
+  "main.js.map": "./static/js/main.b05aef51.chunk.js.map",
   "static/js/1.d11720e8.chunk.js": "./static/js/1.d11720e8.chunk.js",
   "static/js/1.d11720e8.chunk.js.map": "./static/js/1.d11720e8.chunk.js.map",
   "static/js/2.a8d50e29.chunk.js": "./static/js/2.a8d50e29.chunk.js",
   "static/js/2.a8d50e29.chunk.js.map": "./static/js/2.a8d50e29.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.9a22d47c.js",
   "runtime~main.js.map": "./static/js/runtime~main.9a22d47c.js.map",
-  "static/media/common.css": "./static/media/AeonikTRIAL-Bold.f923609d.woff2",
+  "static/media/common.css": "./static/media/GothicA1-Regular.303a7cf6.woff2",
   "static/css/main.0b178c1e.chunk.css.map": "./static/css/main.0b178c1e.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.ead1190ad41511088129187c85a75bd1.js": "./precache-manifest.ead1190ad41511088129187c85a75bd1.js",
+  "precache-manifest.071353f60863e7c37ed7eccf9d9e8008.js": "./precache-manifest.071353f60863e7c37ed7eccf9d9e8008.js",
   "service-worker.js": "./service-worker.js"
 }
