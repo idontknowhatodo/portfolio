@@ -1,0 +1,35 @@
+.intropage{
+    width: 100%;
+    position: relative;
+}
+.intropage .fadein2{
+    width: 90%;
+    font-family: 'Gothic A1';
+    font-size: 150px;
+    font-weight: normal;
+    letter-spacing: -5px;
+    color: rgb(0, 255, 64);
+    margin: 50px auto;
+    animation: fadein 3s ease-in-out;
+}
+.intropage .fadein{
+    width: 90%;
+    font-family: 'Aeonik TRIAL';
+    font-size: 200px;
+    font-weight: normal;
+    letter-spacing: -5px;
+    line-height: 80%;
+    color: rgb(0, 119, 255);
+    margin: 50px auto;
+    animation: fadein 3s ease-in-out;
+}
+@keyframes fadein{
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}

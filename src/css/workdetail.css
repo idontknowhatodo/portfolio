@@ -1,0 +1,52 @@
+.detail{}
+
+.head{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    margin: 50px auto;
+}
+.head .logo{}
+.head .logo a{
+    color:rgb(0, 119, 255);
+}
+.head .logo a h1{
+    font-family: 'Montserrat';
+    font-size: 38px;
+    font-weight: bolder;
+}
+.head .menu{}
+.head .menu ul{}
+.head .menu ul a{
+    color:rgb(0, 119, 255);
+}
+.head .menu ul a li{
+    text-align: right;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* 작업물 디테일 */
+.work{
+    width: 90%;
+}
+.work .explain{
+    width: 80%;
+    margin: 0 auto;
+}
+.work .explain h2{
+    margin: 10px auto;
+}
+.work .explain ul{}
+.work .explain ul li{}
+.work .screen{
+    width: 80%;
+    margin: 60px auto;
+}
+.work .screen img{
+    width: 100%;
+}
+button{}
+
